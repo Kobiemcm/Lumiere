@@ -1,0 +1,217 @@
+body{
+  background-color: rgb(97, 97, 97);
+  background-position: center ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 1vh;
+  color: rgb(255, 255, 255);
+  font-family: 'Raleway', sans-serif;
+  font-size:16px;
+  line-height: 1.6em;
+  margin: 0;
+  
+}
+
+
+
+
+
+.header img {
+  float: left;
+  width: 150px;
+  background: black;
+  margin-left: 60px;
+}
+.login-header img {
+  float: center;
+  width: 150px;
+  background: black;
+  margin-left: 570px;
+  
+}
+
+.container{
+
+  overflow: hidden;
+  
+}
+
+.header{
+background-color: black;
+padding: 30px 30px 0px 0px;
+
+}
+/*Parasite below*/
+
+.box-1p{
+  border: solid 3px gray;
+  background-image: url(../Images/parasiteback.jpg);
+  background-repeat: no-repeat;
+  background-size: 1400px;
+  height: 240px;
+  background-position: center top;
+
+  /*add in blur effect later*/
+
+
+
+
+}
+
+
+.blackcover{
+  border: solid 3px white;
+  background-color: rgba(0, 0, 0, 0.616);
+  height: 235px;
+}
+
+
+.box-1p img{
+  border: solid 3px white;
+height: 150px;
+width: auto;
+position: relative;
+left: 520px;
+top: 40px;
+ 
+
+}
+
+.box-1p h3{
+  position: relative;
+  left: 650px;
+  bottom: 100px;
+}
+
+.box-1p h4{
+  position: relative;
+  left: 650px;
+  bottom: 100px;
+}
+
+
+/*moonlight below*/
+
+.box-1m{
+  border: solid 3px gray;
+  background-image: url(../Images/original.jpg);
+  background-repeat: no-repeat;
+  background-size: 1400px;
+  height: 240px;
+  background-position: center center;
+  /*add in blur effect later*/
+
+
+}
+.box-1m img{
+  border: solid 3px white;
+height: 150px;
+width: auto;
+position: relative;
+left: 520px;
+top: 40px;
+ 
+
+}
+
+.box-1m h3{
+  position: relative;
+  left: 650px;
+  bottom: 100px;
+}
+
+.box-1m h4{
+  position: relative;
+  left: 650px;
+  bottom: 100px;
+}
+/*Farewell below*/
+
+.box-1f{
+  border: solid 3px gray;
+  background-image: url(../Images/backfare.jpg);
+  background-repeat: no-repeat;
+  background-size: 1400px;
+  height: 240px;
+  background-position: center center;
+  /*add in blur effect later*/
+
+
+}
+.box-1f img{
+  border: solid 3px white;
+height: 150px;
+width: auto;
+position: relative;
+left: 520px;
+top: 40px;
+ 
+
+}
+
+.box-1f h3{
+  position: relative;
+  left: 650px;
+  bottom: 100px;
+}
+
+.box-1f h4{
+  position: relative;
+  left: 650px;
+  bottom: 100px;
+}
+
+/*ND below*/
+
+.box-1n{
+  border: solid 3px gray;
+  background-image: url(../Images/nd.png);
+  background-repeat: no-repeat;
+  background-size: 1400px;
+  height: 240px;
+  background-position: center center; 
+  /*add in blur effect later*/
+  /*position background pic over face and eyes*/
+
+
+}
+.box-1n img{
+  border: solid 3px white;
+height: 150px;
+width: auto;
+position: relative;
+left: 520px;
+top: 40px;
+ 
+
+}
+
+.box-1n h3{
+  position: relative;
+  left: 650px;
+  bottom: 100px;
+}
+
+.box-1n h4{
+  position: relative;
+  left: 650px;
+  bottom: 100px;
+}
+
+.box-2{
+border:solid 1px rgb(39,39,39);
+background-color: rgb(39, 39, 39);
+height: 120px;
+
+
+}
+
+.box-2 h3 {
+  
+  color: white;
+  float: center;
+  padding: 20px 200px;
+  font-size: 25px;
+
+}
